@@ -1,0 +1,7 @@
+(
+  function() {
+
+    alert("Hello World")
+
+  }()
+)
