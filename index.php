@@ -11,8 +11,6 @@
   <section id="tarjeta-player">
     <div class="wrapper">
 
-      <!-- <audio class="player" type="audio/ogg"></audio> -->
-      <!-- <audio class="player" src="/home/josecaos/Documents/CCD-agenda.digital/proyectos/inali/inali.repos/inali-frontend/src/componentes/Audio/AudioAssets/josecaos-j71g1gj7-soundcloud.edit.ogg" type="audio/mpeg"></audio> -->
       <button class="toggle-play" data-playing="false" role="switch" aria-checked="false">
         <span>Play/Pause</span>
       </button>
